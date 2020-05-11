@@ -7,6 +7,7 @@ only manages 3 accounts. Challenge: the account could be configured to
 always withdraw money with the least amount of bills possible. For
 instance, if 90 CAD is requested, the least amount would be 1 bill of 50 CAD
 and 2 bills of 20 CAD.
+it's an Account class with all the attributes that characterize a bank account, and all the methods needed.
 Written By MOHAMMAD EL KASWANI
 
 i did two programs because i have a problem,
